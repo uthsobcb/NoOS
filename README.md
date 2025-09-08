@@ -1,5 +1,5 @@
 # NO OS
-An x86 Operating System that proudly does nothing. Because sometimes, the best feature is no features at all
+An x86 Operating System that proudly does nothing. Because sometimes, the best feature is no features at all.
 ---
 ### Index
  - [Introduction](#Introduction)
@@ -11,9 +11,7 @@ In this semester (Summer 2025), I got the course Operating System. And on the La
 
 Our Faculty [Mr. Mahabubur Rahman](https://https://www.linkedin.com/in/mahbubur-rahman-58723333a/) said - "If you really want to understand how a Operating System Works you should build it." So here i'm building my own Operating System called ***"NO OS"***- (here NO doesn't have any full form yet. But suggest some, maybe "NO" means NO, or it could be-
 - Not Okay
-- Non-Operational
-- Noob Overload
-- Not Obssesed
+- Non-Operational 
 or any other name suggest me 💁🏻)
 
 ### My Vision
